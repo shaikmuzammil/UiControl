@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UiControl</string>
+    <string-array name="courses">
+        <item>--choose a course--</item>
+        <item>Mca</item>
+        <item>B.tech</item>
+        <item>M.tech</item>
+        <item>Bca</item>
+        <item>Diploma</item>
+    </string-array>
+</resources>
